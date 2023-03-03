@@ -1,0 +1,12 @@
+* {
+    font-family: 'Fira Sans', sans-serif;
+}
+
+header {
+    height: 10%;
+    text-align: center;
+    color:aliceblue;
+    background-color: blue;
+    font-size: larger;
+    font-weight: bold;
+}
